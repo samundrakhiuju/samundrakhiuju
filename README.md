@@ -1,10 +1,22 @@
 # Hi, I'm Samundra Khiuju 👋
 
-🌏 From Bhaktapur, Nepal — based in Kyoto, Japan  
-🎓 Studying IT at a vocational school (専門学校) — graduating March 2027  
-💻 Building websites from scratch with HTML, CSS & JavaScript  
-🇯🇵 JLPT N3 certified — targeting N2  
-🚀 Looking for IT roles in Japan after graduation  
+🌏 **From:** Bhaktapur, Nepal — based in Kyoto, Japan  
+🎓 **Education:** International College of Management and Information (国際経営情報専門学校)  
+📅 **Expected Graduation:** March 2027  
+💻 **Focus:** Building websites from scratch with HTML, CSS & JavaScript  
+🇯🇵 **Language:** JLPT N3 certified — targeting N2  
+🚀 **Goal:** Looking for IT roles in Japan for 2027 recruitment  
+
+---
+
+## 🇯🇵 自己紹介 (Japanese)
+* 専門学校でITビジネス管理を専攻している留学生です。
+* 2027年3月に卒業予定で、現在日本でのエンジニア職を目指して就職活動中です。
+* HTML/CSS/JavaScriptの実装スキルがあり、ポートフォリオを自作しています。
+
+## 🇮🇳 परिचय (Hindi)
+* मैं जापान के क्योटो में रहने वाला एक IT छात्र हूँ।
+* मार्च 2027 में स्नातक (Graduation) होने के बाद, मैं जापान में IT क्षेत्र में करियर बनाने के लिए समर्पित हूँ।
 
 ---
 
@@ -20,19 +32,19 @@
 
 ## 📂 Projects
 
-| Project | Description | Link |
-|--------|-------------|------|
-| Portfolio Website | Personal portfolio — dark themed, built from scratch | [Live ↗](https://samundrakhiuju.github.io/Samundra-portfolio/) |
-| Café Website | Multi-page responsive café site | [GitHub ↗](https://github.com/samundrakhiuju) |
-| Weather App | JavaScript app using OpenWeather API | Coming soon |
+| Project | Description | Status |
+| :--- | :--- | :--- |
+| **Portfolio Website** | Personal portfolio — dark themed, built from scratch | [Live ↗](https://samundrakhiuju.github.io/Samundra-portfolio/) |
+| **Weather App** | Real-time weather data using OpenWeather API | [Live ↗](https://samundrakhiuju.github.io/Samundra-portfolio/weather-app/) |
+| **Café Website** | Multi-page responsive design for a restaurant | [GitHub ↗](https://github.com/samundrakhiuju) |
 
 ---
 
 ## 📫 Contact
 
-- Email: samundrakhiuju44@gmail.com  
-- Portfolio: [samundrakhiuju.github.io/Samundra-portfolio](https://samundrakhiuju.github.io/Samundra-portfolio/)
+- **Email:** samundrakhiuju44@gmail.com  
+- **Portfolio:** [samundrakhiuju.github.io/Samundra-portfolio](https://samundrakhiuju.github.io/Samundra-portfolio/)
 
 ---
 
-⭐ *Hardworking, self-motivated, and building every day in Japan.*
+⭐ *「継続は力なり」(Continuity is power). Working hard every day to become a professional developer in Japan.*
